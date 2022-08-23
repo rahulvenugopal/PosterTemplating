@@ -1,5 +1,5 @@
 ---
-title: Generate Reproducible & Live HTML and PDF Conference Posters Using RMarkdown
+title: Neural OScillatory Dynamics and Cognition - A Neurohysiological Study
 author:
   - name: Rahul Venugopal
     affil: 1
@@ -9,10 +9,10 @@ affiliation:
   - num: 1
     address: Centre for Consciousness Studies, NIMHANS, Bengaluru
   - num: 2
-    address: Department of Graphics and Layouts, University of Posters; Canada
+    address: National Institute of Advanced Studies, NIAS, Bengaluru
 column_numbers: 3
-logoright_name: https://raw.githubusercontent.com/rahulvenugopal/PosterTemplating/main/logos/NIMHANS%20Logo.png
-logoleft_name: https://raw.githubusercontent.com/rahulvenugopal/PosterTemplating/main/logos/CCS_Logo_Half%208x8cm_trans.png
+logoright_name: "NIMHANS.png"
+logoleft_name: "CCS.png"
 output: 
   posterdown::posterdown_html:
     self_contained: false
