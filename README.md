@@ -1,15 +1,15 @@
 ## Want to create some kickass science poster? You have come to the right dojo <img src="https://github.com/rahulvenugopal/PosterTemplating/blob/main/EMBO_Poster/Logos/Readme/dojo.png" width="40px" />
 I came across the [posterdown](https://github.com/brentthorne/posterdown) R package which could create awesome science posters. It was great, but customising certain aspects meant digging into config files and being a final year PhD scholar, I didn't have that much time. Then, I happened to tumble down a rabbit hole browsing the [bird site](https://twitter.com/rhlvenugopal)
 
+<img src="https://raw.githubusercontent.com/rahulvenugopal/PosterTemplating/main/EMBO_Poster/Logos/Readme/Poster-session-illus-by-Jon-Wagner.jpg?token=GHSAT0AAAAAAB3SNADD6LY7TYMUUOVYLEAYY4DVF7A" width="800px" />
+
 [Mike Morrison's](https://twitter.com/mikemorrison) video on [How to create a better research poster in less time](https://www.youtube.com/watch?v=SYk29tnxASs) got me hooked and I decided to give it a shot. Below is a scattered compilation of all the resources I went through to make my workshop poster
 ![]()
 
 > Checkout my poster [repo](https://github.com/rahulvenugopal/PosterTemplating) and [portfolio](https://linktr.ee/rhlvenugopal)
 
 ## Resources
-1. All Mike Morrison [videos](https://www.youtube.com/@mikemorrison8881/videos)
-<img src="https://github.com/rahulvenugopal/PosterTemplating/blob/main/EMBO_Poster/Logos/Readme/betterposter.png" width="400px" />
-
+1. All Mike Morrison [videos](https://www.youtube.com/@mikemorrison8881/videos
 2. [Better Scientific Poster from Mike Morrison - templates](https://osf.io/ef53g/)
 3. Two OSF repos [one](https://osf.io/g6xsm) and [two](https://osf.io/6ua4k)
 4. [Butter poster](https://derekcrowe.net/butterposter). This is so cool and has lots of resources
