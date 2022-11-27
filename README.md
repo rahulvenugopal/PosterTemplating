@@ -23,3 +23,4 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 <img src = "https://github.com/rahulvenugopal/PosterTemplating/blob/main/EMBO_Poster/Logos/Readme/scrollstory.png" width="400px" />
 
 10. Better Posters: Improving poster presentations since 2009 [website](https://betterposters.blogspot.com/) and [twitter](https://twitter.com/Better_Posters)
+11. [A five minute guide to better typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
