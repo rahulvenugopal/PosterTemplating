@@ -17,6 +17,7 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 6. [Noun project](https://thenounproject.com/) and [flaticon](https://www.flaticon.com/) for icons
 7. [BioRender](https://biorender.com/) for biology icons and figures
 8. [Linktree](https://linktr.ee/) for portfolio. I used the below settings for `Custom appearances`:
+
 a) Backgrounds - Gradient
 b) Direction - Gradient up
 c) Color - #050506
