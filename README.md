@@ -16,7 +16,17 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 5. [Dribble](https://dribbble.com/) for theming
 6. [Noun project](https://thenounproject.com/) and [flaticon](https://www.flaticon.com/) for icons
 7. [BioRender](https://biorender.com/) for biology icons and figures
-8. [Linktree](https://linktr.ee/) for portfolio
+8. [Linktree](https://linktr.ee/) for portfolio. I used the below settings for `Custom appearances`:
+a) Backgrounds - Gradient
+b) Direction - Gradient up
+c) Color - #050506
+d) Soft shadow - Round one
+e) Button color - #120e0c
+f) Button font color - #edeceb
+g) Shadow color - #000000
+h) Fonts - DM Sans
+i) Color - ##ffffff
+
 <img src="https://github.com/rahulvenugopal/PosterTemplating/blob/main/EMBO_Poster/Logos/Readme/Linktree.png" width="400px" />
 
 9. Scroll and story tell [demo](https://my.visme.co/view/8r9e71qk-icis2020-poster-gazefollowing-movieversion)
