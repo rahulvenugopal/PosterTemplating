@@ -12,7 +12,7 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 1. All Mike Morrison [videos](https://www.youtube.com/@mikemorrison8881/videos)
 2. [Better Scientific Poster from Mike Morrison - templates](https://osf.io/ef53g/)
 3. Two OSF repos [one](https://osf.io/g6xsm) and [two](https://osf.io/6ua4k)
-4. [Butter poster](https://derekcrowe.net/butterposter). This is so cool and has lots of resources
+4. [Butter poster](https://derekcrowe.net/butterposter). This is so cool and has lots of resources. **I eneded up using their template for the poster**
 5. [Dribble](https://dribbble.com/) for theming
 6. [Noun project](https://thenounproject.com/) and [flaticon](https://www.flaticon.com/) for icons
 7. [BioRender](https://biorender.com/) for biology icons and figures
@@ -24,3 +24,4 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 
 10. Better Posters: Improving poster presentations since 2009 [website](https://betterposters.blogspot.com/) and [twitter](https://twitter.com/Better_Posters)
 11. [A five minute guide to better typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+11. I added a quick `1` minute video of my lab to linktree [profile](https://linktr.ee/rhlvenugopal). The video editing was done using [Clipchamp](https://clipchamp.com/en/)
