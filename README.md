@@ -9,7 +9,7 @@ I came across the [posterdown](https://github.com/brentthorne/posterdown) R pack
 > Checkout my poster [repo](https://github.com/rahulvenugopal/PosterTemplating) and [portfolio](https://linktr.ee/rhlvenugopal)
 
 ## Resources
-1. All Mike Morrison [videos](https://www.youtube.com/@mikemorrison8881/videos)
+1. All Mike Morrison [videos](https://www.youtube.com/playlist?list=PLWWB6UQWDudKywi-dU_MK-yLiDwKI8_vi)
 2. [Better Scientific Poster from Mike Morrison - templates](https://osf.io/ef53g/)
 3. Two OSF repos [one](https://osf.io/g6xsm) and [two](https://osf.io/6ua4k)
 4. [Butter poster](https://derekcrowe.net/butterposter). This is so cool and has lots of resources. **I eneded up using their template for the poster**
